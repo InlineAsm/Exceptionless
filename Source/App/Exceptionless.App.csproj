@@ -454,9 +454,7 @@
     <Content Include="Content\fonts\FontAwesome.otf" />
     <Content Include="Exceptionless.App.nuspec" />
     <Content Include="PreDeploy.ps1" />
-    <Content Include="Content\toastr.css.map">
-      <DependentUpon>toastr.css</DependentUpon>
-    </Content>
+    <None Include="Properties\PublishProfiles\Live.pubxml" />
     <None Include="Scripts\jquery-2.1.0.intellisense.js" />
     <Content Include="Scripts\d3.js" />
     <Content Include="Scripts\d3.min.js" />

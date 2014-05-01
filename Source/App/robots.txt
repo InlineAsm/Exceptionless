@@ -1,17 +1,17 @@
 ﻿User-agent: *
-Disallow: http://app.exceptionless.com/project/
+Disallow: http://rng.reflex-systems.nl/project/
 
 User-agent: *
-Disallow: http://app.exceptionless.com/stack/
+Disallow: http://rng.reflex-systems.nl/stack/
 
 User-agent: *
-Disallow: http://app.exceptionless.com/error/
+Disallow: http://rng.reflex-systems.nl/error/
 
 User-agent: *
-Disallow: http://app.exceptionless.com/admin/
+Disallow: http://rng.reflex-systems.nl/admin/
 
 User-agent: *
-Disallow: http://app.exceptionless.com/account/
+Disallow: http://rng.reflex-systems.nl/account/
 
 User-agent: *
-Disallow: http://app.exceptionless.com/organization/
+Disallow: http://rng.reflex-systems.nl/organization/
